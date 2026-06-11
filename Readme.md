@@ -84,7 +84,7 @@ This dashboard enables managers to:
 
 ## Dashboard Preview
 
-Dashboard.png
+![Global Superstore Sales Dashboard](assets/Dashboard.png)
 
 ## Author
 
