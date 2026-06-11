@@ -84,7 +84,7 @@ This dashboard enables managers to:
 
 ## Dashboard Preview
 
-Add your dashboard screenshots here.
+Dasboard.png
 
 ## Author
 
